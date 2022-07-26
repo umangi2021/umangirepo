@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deploy CI CD Learn React 26 July
+          Deploy CI CD Learn React 26 July 2022
         </a>
       </header>
     </div>
